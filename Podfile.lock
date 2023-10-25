@@ -9,7 +9,7 @@ DEPENDENCIES:
   - GonativeIcons
 
 SPEC REPOS:
-  "git@github.com:gonativeio/gonative-specs.git":
+  "git@github.com:menaweb/gonative-specs.git":
     - GoNativeCore
     - GonativeIcons
 
